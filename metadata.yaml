@@ -1,0 +1,31 @@
+_repo: Religions-of-Ancient-China_2330
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Giles, Herbert Allen
+    aliases:
+    - Giles, Herbert A.
+    - Giles, H. A. (Herbert Allen)
+    birthdate: 1845
+    deathdate: 1935
+    gutenberg_agent_id: '814'
+    url: http://www.gutenberg.org/2009/agents/814
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Giles
+description: ''
+gutenberg_bookshelf: Paganism
+gutenberg_issued: '2006-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'China -- Religion'
+- GITenberg
+tableOfContents: The ancient faith -- Confucianism -- Taoism -- Materialism -- Buddhism
+  and other religions.
+title: Religions of Ancient China
+url: http://www.gutenberg.org/ebooks/2330
